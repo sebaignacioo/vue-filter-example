@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Smartphone XYZ",
+      "description": "Teléfono inteligente con pantalla táctil y sistema operativo Android",
+      "value": "500",
+      "category": "Smartphone"
+    },
+    {
+      "id": "2",
+      "name": "Laptop ABC",
+      "description": "Computadora portátil con procesador Intel y memoria RAM de 8GB",
+      "value": "1000",
+      "category": "Computación"
+    },
+    {
+      "id": "3",
+      "name": "Smartwatch 123",
+      "description": "Reloj inteligente con monitor de ritmo cardíaco y notificaciones de mensajes",
+      "value": "200",
+      "category": "Smartwatch"
+    },
+    {
+      "id": "4",
+      "name": "Tablet DEF",
+      "description": "Dispositivo portátil con pantalla táctil y capacidad de navegación web",
+      "value": "300",
+      "category": "Computación"
+    },
+    {
+      "id": "5",
+      "name": "Cámara GHI",
+      "description": "Cámara digital con resolución de 20 megapíxeles y zoom óptico de 10x",
+      "value": "400",
+      "category": "Cámaras"
+    },
+    {
+      "id": "6",
+      "name": "Auriculares JKL",
+      "description": "Audífonos inalámbricos con cancelación de ruido y micrófono integrado",
+      "value": "100",
+      "category": "Audio"
+    },
+    {
+      "id": "7",
+      "name": "Altavoz MNO",
+      "description": "Parlante portátil con conexión Bluetooth y batería recargable",
+      "value": "80",
+      "category": "Audio"
+    },
+    {
+      "id": "8",
+      "name": "Teclado PQR",
+      "description": "Teclado inalámbrico con diseño ergonómico y retroiluminación",
+      "value": "60",
+      "category": "Perifericos"
+    },
+    {
+      "id": "9",
+      "name": "Mouse STU",
+      "description": "Mouse óptico con sensor de alta precisión y conexión USB",
+      "value": "20",
+      "category": "Perifericos"
+    },
+    {
+      "id": "10",
+      "name": "Impresora VWX",
+      "description": "Impresora multifuncional con conexión Wi-Fi y escáner integrado",
+      "value": "150",
+      "category": "Impresoras"
+    },
+    {
+      "id": "11",
+      "name": "Monitor YZA",
+      "description": "Pantalla de computadora de 24 pulgadas con resolución Full HD",
+      "value": "200",
+      "category": "Monitores y proyectores"
+    },
+    {
+      "id": "12",
+      "name": "Consola BCD",
+      "description": "Videojuego con control inalámbrico y capacidad de jugar en línea",
+      "value": "300",
+      "category": "Videojuegos"
+    },
+    {
+      "id": "13",
+      "name": "Proyector EFG",
+      "description": "Dispositivo para proyectar imágenes y videos con resolución HD",
+      "value": "400",
+      "category": "Monitores y proyectores"
+    },
+    {
+      "id": "14",
+      "name": "Bocinas HIJ",
+      "description": "Par de bocinas estéreo con amplificador integrado y entrada auxiliar",
+      "value": "100",
+      "category": "Audio"
+    },
+    {
+      "id": "15",
+      "name": "Reproductor KLM",
+      "description": "Reproductor de música portátil con capacidad de almacenamiento de 16GB",
+      "value": "50",
+      "category": "Audio"
+    }
+  ]
+}
